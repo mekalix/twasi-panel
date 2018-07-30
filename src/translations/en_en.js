@@ -1,6 +1,6 @@
 export default {
   // General
-  'common.save': 'Speichern',
+  'common.save': 'Save',
 
   // Welcome
   'welcome.headline': 'Willkommen bei Twasi',
